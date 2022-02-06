@@ -27,16 +27,16 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/' exact component={Home} />
-          <Route path='/about' component={About} />
-          <Route path='/blogs' component={Blogs} />
-          <Route path='/sign-up' component={SignUp} />
-          <Route path='/exhibition' component={Exhibition} />
-          <Route path='/profile' component={Profile} />
-          <Route path='/item_detail' component={Itemdetail} />
-          <Route path='/blog_detail' component={Blogdetail} />
-          <Route path='/itembuy' component={ItemBuy} />
-          <Route path='/main-cart-section' component={Cart} />
+          <Route path='/' exact element={<Home />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/blogs' element={<Blogs />} />
+          <Route path='/sign-up' element={<SignUp />} />
+          <Route path='/exhibition' element={<Exhibition />} />
+          <Route path='/profile' element={<Profile />} />
+          <Route path='/item_detail' element={<Itemdetail />} />
+          <Route path='/blog_detail' element={<Blogdetail />} />
+          <Route path='/itembuy' element={<ItemBuy />} />
+          <Route path='/main-cart-section' element={<Cart />} />
         </Routes>
         <Footer />
       </Router>
