@@ -23,7 +23,7 @@ function HeroSection() {
                         className='btns'
                         buttonStyle='btn--primary'
                         buttonSize='btn--large'
-                        onClick={console.log('hey')}
+                        onClick={console.log('clicked')}
                     >
                         TAKE A TOUR <i class="fas fa-hand-point-down" />
                     </Button>
