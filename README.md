@@ -1,3 +1,11 @@
+Libraries used:
+- react router dom
+- @materialui/core
+- fortawesome/font-awesome-icons, svg, and others
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
