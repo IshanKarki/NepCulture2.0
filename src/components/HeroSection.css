@@ -34,11 +34,31 @@ video {
   
   .hero-btns {
     margin-top: 32px;
+    display: flex;
   }
   
-  .hero-btns .btn {
-    margin: 6px;
+
+  .for-width {
+    width: 20px;
   }
+
+  .tour {
+    background-color: var(--primary);
+    color: #242424;
+    border: 1px solid var(--primary);
+    padding: 12px 100px;
+    font-size: 20px;
+    border-radius: 2px;
+  }
+
+  .tour:hover {
+    transition: all 0.3s ease-out;
+    transition: 250ms;
+    color: #fff;
+    border: 1px solid #242424;
+    background-color: #242424;
+  }
+
   
   .fa-play-circle {
     margin-left: 4px;

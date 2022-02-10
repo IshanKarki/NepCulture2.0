@@ -87,7 +87,7 @@ function Cart() {
                             </div>
 
                             <div className="price">
-                                <h3>2000rs</h3>
+                                <h3>2000 Rs</h3>
                             </div>
 
                             <div className="remove-item">
@@ -103,12 +103,14 @@ function Cart() {
                     </div>
                 </div>
                 <div className="card-total">
-                    <h3>Cart Total : <span>6000rs</span></h3>
+                    <h3>Cart Total : <span>6000 Rs</span></h3>
                     <Link to='itembuy'>
                         <button className='total'>Checkout</button>
                     </Link>
                 </div>
+
             </section>
+
         </header>
     )
 }

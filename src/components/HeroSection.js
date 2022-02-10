@@ -18,18 +18,20 @@ function HeroSection() {
                 >
                     GET STARTED
                 </Button>
+                <div className='for-width'>
+                </div>
                 <Link to='/exhibition'>
-                    <Button
-                        className='btns'
+                    <button
+                        className='tour'
                         buttonStyle='btn--primary'
                         buttonSize='btn--large'
                         onClick={console.log('clicked')}
                     >
                         TAKE A TOUR <i class="fas fa-hand-point-down" />
-                    </Button>
+                    </button>
                 </Link>
             </div>
-        </div>
+        </div >
     );
 }
 
