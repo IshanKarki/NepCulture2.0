@@ -1,3 +1,11 @@
+
+older package.json might want to use the latest 
+// here specifically in the newer version of react router dom, Switch in BrowserRouter is replaced by Routes and also changes the syntax.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
