@@ -1,5 +1,8 @@
 
 older package.json might want to use the latest 
+
+
+
 // here specifically in the newer version of react router dom, Switch in BrowserRouter is replaced by Routes and also changes the syntax.
 
 
