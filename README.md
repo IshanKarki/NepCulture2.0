@@ -4,6 +4,9 @@ Libraries used:
 - fortawesome/font-awesome-icons, svg, and others
 
 
+some changes in the master branch check it out.
+
+
 
 
 # Getting Started with Create React App
