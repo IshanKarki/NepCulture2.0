@@ -1,13 +1,3 @@
-Libraries used:
-- react router dom
-- @materialui/core
-- fortawesome/font-awesome-icons, svg, and others
-
-
-some changes in the master branch check it out.
-
-
-
 
 # Getting Started with Create React App
 
