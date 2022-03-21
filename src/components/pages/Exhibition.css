@@ -8,6 +8,13 @@
     font-size: 40px;
   }
   
+  img{
+    height: 350px;
+  }
+/* .container {
+  padding: 50px;
+} */
+
   .exhibit__container {
     display: flex;
     flex-flow: column;
@@ -20,6 +27,11 @@
   .exhibit__wrapper {
     position: relative;
     margin: 50px 0 45px;
+  }
+
+  .exhibit-container{
+    display: flex;
+    
   }
   
   .exhibit__items {
