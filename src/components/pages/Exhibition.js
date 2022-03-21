@@ -11,9 +11,9 @@ function Exhibition() {
 
             <div className="col">
                 <div className="row" >
-                    <div className="col-12 col-md-6 col-lg-4" style={{ "padding-bottom": "30px" }}>
+                    <div className="col-12 col-md-6 col-lg-3" style={{ "padding-bottom": "30px" }}>
                         <div className="card" >
-                            <img className="card-img-top" src="images/Bhairava.jpg" alt="Card image cap" />
+                            <img className="card-img-top" src="images/Sarangi.jpg" alt="Card image cap" />
                             <div className="card-body">
                                 <h4 className="card-title" style={{ color: "blue" }}>Product title</h4>
                                 <p style={{ color: "red" }}>Price: Rs. 999</p>
@@ -21,18 +21,18 @@ function Exhibition() {
                                 <p className="card-text">Some quick up the bulk of the card's content...</p>
                                 <div className="row">
                                     <div className="col">
-                                        <p className="btn btn-danger btn-block">View Detail</p>
+                                        <p className="btn btn-danger btn-block"><a href="\item_detail" style={{ textDecoration: "none", color: "white" }}>View Detail</a></p>
                                     </div>
                                     <div className="col">
-                                        <a href="#" className="btn btn-success btn-block">Add to cart</a>
+                                        <a href="\main-cart-section" className="btn btn-success btn-block">Add to cart</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className="col-12 col-md-6 col-lg-4" style={{ "padding-bottom": "30px" }}>
-                        <div className="card">
-                            <img className="card-img-top" src="images/Bhairava.jpg" alt="Card image cap" />
+                    <div className="col-12 col-md-6 col-lg-3" style={{ "padding-bottom": "30px" }}>
+                        <div className="card" >
+                            <img className="card-img-top" src="images/madal.jpg" alt="Card image cap" />
                             <div className="card-body">
                                 <h4 className="card-title" style={{ color: "blue" }}>Product title</h4>
                                 <p style={{ color: "red" }}>Price: Rs. 999</p>
@@ -40,18 +40,18 @@ function Exhibition() {
                                 <p className="card-text">Some quick up the bulk of the card's content...</p>
                                 <div className="row">
                                     <div className="col">
-                                        <p className="btn btn-danger btn-block">View Detail</p>
+                                        <p className="btn btn-danger btn-block"><a href="\item_detail" style={{ textDecoration: "none", color: "white" }}>View Detail</a></p>
                                     </div>
                                     <div className="col">
-                                        <a href="#" className="btn btn-success btn-block">Add to cart</a>
+                                        <a href="\main-cart-section" className="btn btn-success btn-block">Add to cart</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className="col-12 col-md-6 col-lg-4" style={{ "padding-bottom": "30px" }}>
-                        <div className="card">
-                            <img className="card-img-top" src="images/Bhairava.jpg" alt="Card image cap" />
+                    <div className="col-12 col-md-6 col-lg-3" style={{ "padding-bottom": "30px" }}>
+                        <div className="card" >
+                            <img className="card-img-top" src="images/sherpa.jpg" alt="Card image cap" />
                             <div className="card-body">
                                 <h4 className="card-title" style={{ color: "blue" }}>Product title</h4>
                                 <p style={{ color: "red" }}>Price: Rs. 999</p>
@@ -59,18 +59,18 @@ function Exhibition() {
                                 <p className="card-text">Some quick up the bulk of the card's content...</p>
                                 <div className="row">
                                     <div className="col">
-                                        <p className="btn btn-danger btn-block">View Detail</p>
+                                        <p className="btn btn-danger btn-block"><a href="\item_detail" style={{ textDecoration: "none", color: "white" }}>View Detail</a></p>
                                     </div>
                                     <div className="col">
-                                        <a href="#" className="btn btn-success btn-block">Add to cart</a>
+                                        <a href="\main-cart-section" className="btn btn-success btn-block">Add to cart</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className="col-12 col-md-6 col-lg-4" style={{ "padding-bottom": "30px" }}>
-                        <div className="card">
-                            <img className="card-img-top" src="images/Bhairava.jpg" alt="Card image cap" />
+                    <div className="col-12 col-md-6 col-lg-3" style={{ "padding-bottom": "30px" }}>
+                        <div className="card" >
+                            <img className="card-img-top" src="images/Mountain.jpg" alt="Card image cap" />
                             <div className="card-body">
                                 <h4 className="card-title" style={{ color: "blue" }}>Product title</h4>
                                 <p style={{ color: "red" }}>Price: Rs. 999</p>
@@ -78,10 +78,29 @@ function Exhibition() {
                                 <p className="card-text">Some quick up the bulk of the card's content...</p>
                                 <div className="row">
                                     <div className="col">
-                                        <p className="btn btn-danger btn-block">View Detail</p>
+                                        <p className="btn btn-danger btn-block"><a href="\item_detail" style={{ textDecoration: "none", color: "white" }}>View Detail</a></p>
                                     </div>
                                     <div className="col">
-                                        <a href="#" className="btn btn-success btn-block">Add to cart</a>
+                                        <a href="\main-cart-section" className="btn btn-success btn-block">Add to cart</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-12 col-md-6 col-lg-3" style={{ "padding-bottom": "30px" }}>
+                        <div className="card" >
+                            <img className="card-img-top" src="images/Mountain.jpg" alt="Card image cap" />
+                            <div className="card-body">
+                                <h4 className="card-title" style={{ color: "blue" }}>Product title</h4>
+                                <p style={{ color: "red" }}>Price: Rs. 999</p>
+
+                                <p className="card-text">Some quick up the bulk of the card's content...</p>
+                                <div className="row">
+                                    <div className="col">
+                                        <p className="btn btn-danger btn-block"><a href="\item_detail" style={{ textDecoration: "none", color: "white" }}>View Detail</a></p>
+                                    </div>
+                                    <div className="col">
+                                        <a href="\main-cart-section" className="btn btn-success btn-block">Add to cart</a>
                                     </div>
                                 </div>
                             </div>
@@ -95,7 +114,7 @@ function Exhibition() {
             {/* <div className='exhibit__container'>
                 <div className='exhibit__wrapper'>
                     <div className='exhibit-container'>
-                        <div className='col-sm-4'>
+                        <div className='col-sm-3'>
                             <ul className='exhibit__items'>
                             <ExhibitItem
                                 src='images/Dipankara_buddha.jpg'

@@ -71,7 +71,13 @@ function Navbar() {
                             </li>
                         </ul>
                     </div>
-                    {button && <Button buttonStyle='btn--outline'>Login / Register</Button>}
+                    <div className='dropdown'>
+                        {button && <Button buttonStyle='btn--outline'>Login / Register</Button>}
+                        <div class="dropdown-content">
+                            <a href="/sign-in">Login</a>
+                            <a href="/sign-up">Register</a>
+                        </div>
+                    </div>
                 </div>
 
             </nav>
